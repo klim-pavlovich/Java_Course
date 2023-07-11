@@ -1,4 +1,4 @@
-package ru.geekbrains.homeworks.mezhuev;
+package ru.geekbrains.homeworks;
 
 import java.util.Arrays;
 import java.util.Scanner;
