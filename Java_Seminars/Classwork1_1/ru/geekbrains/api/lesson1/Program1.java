@@ -2,7 +2,7 @@ package Java_Seminars.Classwork1_1.ru.geekbrains.api.lesson1;
 
 import java.util.Scanner;
 
-public class Program{
+public class Program1{
 
     static Scanner scanner = new Scanner(System.in);
 
