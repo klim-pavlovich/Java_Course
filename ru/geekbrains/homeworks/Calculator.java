@@ -1,4 +1,4 @@
-package ru.geekbrains.api.seminars.Seminar2;
+package ru.geekbrains.homeworks;
 
 import java.io.File;
 import java.io.FileWriter;

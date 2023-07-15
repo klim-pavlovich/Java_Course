@@ -148,9 +148,6 @@ public class Homework1 {
                 else{
                     System.out.println("Некорректный выбор. Попробуйте еще раз.");
                 }
-                // if (exitCalculator){
-                //     break;
-                // }
             }
         }
 
